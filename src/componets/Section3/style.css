@@ -1,0 +1,208 @@
+.section30{
+
+
+    height:998px;
+
+    width:100%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section30 h1{
+
+
+
+    font-family: Gilroy;
+font-size: 96px;
+font-weight: 700;
+line-height: 118.85px;
+text-align: center;
+color: #EEEEEE;
+margin: 0;
+
+}
+.section30 p{
+
+
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 700;
+line-height: 49.52px;
+text-align: center;
+position: relative;
+bottom:45px;
+right:10px
+
+
+
+
+}
+
+.section31{
+
+    width: 462px;
+    height: 86px;
+
+    
+
+}
+
+.section32{
+
+
+    width: 1100px;
+    height: 734px;
+   background-color:#5855E7;
+   margin-top: 81px;
+   border-radius: 15px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    
+}
+
+.section33{
+
+height:615px;
+
+width:485px;
+
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+.section33 h1{
+
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48.52px;
+    text-align: left;
+ 
+
+}
+
+.section34{
+
+
+
+    display:flex;
+    gap:12px;
+ 
+    height: 21px;
+ 
+
+}
+.section34 div{
+
+    width: 20px;
+    height: 20px;
+   
+    background-color: #A23AC1;
+
+}
+
+.section34 span{
+
+
+    font-family: Gilroy;
+font-size: 24px;
+font-weight: 400;
+
+text-align:left;
+color:azure
+
+}
+
+.section33 img{
+
+    width: 485px;
+    height: 338px;
+
+
+}
+.section40{
+
+    height:615px;
+    
+    width:400px;
+    
+    display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+
+    
+    }
+
+    
+    .section40 h1{
+
+        font-family: Gilroy;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 48.52px;
+        text-align: left;
+        
+        
+        
+    }
+
+    .section40 span{
+
+        font-family: Gilroy;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+color:#FFFFFF;
+
+width: 329px;
+height: 38px;
+
+
+
+    }
+
+     .section40  input{
+
+        width: 395px;
+        height: 52px;
+       
+        border-radius: 5px ;
+        
+        
+
+    }
+    .section40 input:nth-child(5){
+
+        width: 395px;
+        height: 262px;
+        top: 4905px;
+        left: 834px;
+        gap: 0px;
+        border-radius: 5px;
+        opacity: 0px;
+        
+
+    }
+
+    .section40 button{
+
+        width: 197px;
+        height: 52px;
+        
+        border-radius: 5px;
+        font-family: Gilroy;
+font-size: 24px;
+line-height: 28.13px;
+text-align: center;
+border: none;
+margin-left: 203px;
+
+
+        
+        
+
+    }

@@ -1,0 +1,65 @@
+
+.navbar{
+
+    width: 100%;
+    height:143px;
+    background-color: #5855E7;
+    display:flex;
+    align-items: center;
+   padding-left: 76px;
+}
+
+.navbar1{
+width:1233.14px;
+
+
+height:111px;
+list-style-type: none;
+display:flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+ul{
+
+   
+    width:662px;
+    height: 29px;
+    display: flex;
+    list-style-type: none;
+    font-family: Gilroy;
+ 
+font-size: 24px;
+font-weight: 500;
+line-height: 29.11px;
+text-align: left;
+
+color:#FFFFFF;
+justify-content: space-between;
+}
+
+.navbtn{
+
+
+    width: 267.14px;
+height: 50px;
+
+border-radius: 5px;
+opacity: 0px;
+
+background-color:#FFFFFF;
+font-family: Gilroy;
+font-size: 24px;
+line-height: 28.13px;
+text-align: center;
+
+border:none;
+
+}
+
+img{
+    width: 156px;
+    height: 111px;
+   
+}
